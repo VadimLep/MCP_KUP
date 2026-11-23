@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses">
+	<CommonModule uuid="3e935843-f53c-408b-8c7a-14a22db8c6d9">
+		<Properties>
+			<Name>CHATMCP_ФункцииСервера</Name>
+			<Synonym/>
+			<Comment/>
+			<Global>false</Global>
+			<ClientManagedApplication>false</ClientManagedApplication>
+			<Server>true</Server>
+			<ExternalConnection>false</ExternalConnection>
+			<ClientOrdinaryApplication>false</ClientOrdinaryApplication>
+			<ServerCall>false</ServerCall>
+			<Privileged>false</Privileged>
+			<ReturnValuesReuse>DontUse</ReturnValuesReuse>
+		</Properties>
+		<IsModule>true</IsModule>
+		<ModuleType>Managed</ModuleType>
+		<HandlerType>Ordinary</HandlerType>
+	</CommonModule>
+</MetaDataObject>

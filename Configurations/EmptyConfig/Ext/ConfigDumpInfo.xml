@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.2/data/dump" xmlns:core="http://v8.1c.ru/8.1/managed/coreform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Compositions xsi:type="xs:string">{&quot;4913c4ae-913e-41f5-931e-7bdc2fcffcc5&quot;: &quot;CommonModule.CHATMCP_ОбработкаВходящих&quot;}</Compositions>
+	<Compositions xsi:type="xs:string">{&quot;4913c4ae-913e-41f5-931e-7bdc2fcffcc5&quot;: &quot;CommonModule.CHATMCP_ОбработкаВходящих&quot;, &quot;3e935843-f53c-408b-8c7a-14a22db8c6d9&quot;: &quot;CommonModule.CHATMCP_ФункцииСервера&quot;}</Compositions>
 	<ConfigVersions xsi:type="xs:string"/>
 	<CreationDate xsi:type="xs:dateTime">2026-11-23T00:00:00+03:00</CreationDate>
 	<DescriptionsFormatVersion xsi:type="xs:string"/>
