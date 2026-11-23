@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigObject xmlns="http://v8.1c.ru/8.2/xcf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Properties>
+		<Name xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">EmptyConfig</Name>
+		<Synonym/>
+		<Comment/>
+		<ObjectVersion xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+		<ConfigurationExtensionProperties/>
+		<CompatibilityMode Value="8.3.25" Version="8.3.25" xmlns:v8="http://v8.1c.ru/8.1/data/core"/>
+		<ScriptVariant xsi:type="v8:ScriptVariant" xmlns:v8="http://v8.1c.ru/8.1/data/core">English</ScriptVariant>
+		<Roles/>
+		<CommandGroups/>
+		<CommonAttributes/>
+		<CommonProperties/>
+		<CommonForms/>
+		<CommonCommands/>
+		<ReportBuilders/>
+		<Interfaces/>
+		<SubsystemFilters/>
+		<DefaultRunMode xsi:type="v8:ApplicationRunMode" xmlns:v8="http://v8.1c.ru/8.1/data/core">ManagedApplication</DefaultRunMode>
+		<AllFunctionsMode xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</AllFunctionsMode>
+		<DialogMessageLanguage xsi:type="core:Unknown" xmlns:core="http://v8.1c.ru/8.1/data/core"/>
+		<VersionOfDesignAnalysisAddInDelayedStart xsi:type="xs:int" xmlns:xs="http://www.w3.org/2001/XMLSchema">0</VersionOfDesignAnalysisAddInDelayedStart>
+		<DMInformationSecurity/>
+		<DMLogging/>
+		<DMAuditComputations/>
+		<CompatibilityModeForNewObjects Value="8.3.25" Version="8.3.25" xmlns:v8="http://v8.1c.ru/8.1/data/core"/>
+		<StandaloneRestrictions/>
+		<WebCloudServices/>
+		<AnalyticsSettings/>
+		<MobileApplicationsDevelopmentSupport xsi:type="v8:MobileAppDevelopmentSupport" xmlns:v8="http://v8.1c.ru/8.1/data/core">Disabled</MobileApplicationsDevelopmentSupport>
+		<MobileClientApplication/>
+		<Styles/>
+		<StyleItems/>
+		<Pictures/>
+		<ConditionalAppearance/>
+		<StandardRoles/>
+		<FunctionalOptions/>
+		<DefaultLanguage/>
+		<Languages/>
+		<TranslationFiles/>
+		<UsedForTranslation/>
+		<SearchStringsForCmd/>
+		<ConfigurationHistoryUrls/>
+		<CrossDistributionSets/>
+		<ExtendedEditModes/>
+		<CustomFormDataProcessingExclusionList/>
+		<CustomFormHandlerExclusionList/>
+		<LockElementsForEditFormsDesignDataProcessingExclusionList/>
+		<ReintegrationSupport xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</ReintegrationSupport>
+		<EnableModalShowFormOnServerCall xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</EnableModalShowFormOnServerCall>
+		<EnableComConnectorConnectorCompatibilityMode xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</EnableComConnectorConnectorCompatibilityMode>
+		<EnableUseEventMonitor xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</EnableUseEventMonitor>
+		<EnableSendToClipboardSpecialCharactersWhenControlForm xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</EnableSendToClipboardSpecialCharactersWhenControlForm>
+		<EnableModalShowFormOnServerCallCompatibilityMode xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</EnableModalShowFormOnServerCallCompatibilityMode>
+		<AllowSynchronousClientActionsCompatibilityMode xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</AllowSynchronousClientActionsCompatibilityMode>
+		<AllowDataHistory xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</AllowDataHistory>
+		<RecordSetType xsi:type="v8:RecordSetType" xmlns:v8="http://v8.1c.ru/8.1/data/core">Mixed</RecordSetType>
+		<SessionParameters/>
+		<SessionDelayParameter/>
+		<DefinedTypes/>
+		<CommonTables/>
+		<DocumentNumbers/>
+		<AutoDocumentation/>
+		<BackUpContentsForChangeAndCreation/>
+		<ExtendedDatabaseDumpSupport xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</ExtendedDatabaseDumpSupport>
+		<DisableDebugInformationCreate xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema">false</DisableDebugInformationCreate>
+		<StorageAccounts/>
+		<PrintedForms/>
+		<ReturnValueSetting/>
+		<CompatibilityModeForCompatibilityLevel/>
+	</Properties>
+	<ChildObjects/>
+</ConfigObject>
