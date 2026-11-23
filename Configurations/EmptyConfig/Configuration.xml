@@ -71,6 +71,7 @@
 		<ChildObjects>
 		<CommonModule>CHATMCP_ОбработкаВходящих</CommonModule>
 			<CommonModule>CHATMCP_ФункцииСервера</CommonModule>
+		<HTTPService>CHATMCP_MCP</HTTPService>
 	</ChildObjects>
 	</Configuration>
 </MetaDataObject>
