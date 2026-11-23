@@ -68,6 +68,8 @@
 			<ReturnValueSetting/>
 			<CompatibilityModeForCompatibilityLevel/>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+		<CommonModule>CHATMCP_ОбработкаВходящих</CommonModule>
+	</ChildObjects>
 	</Configuration>
 </MetaDataObject>
